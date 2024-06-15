@@ -4,9 +4,7 @@ I'm a software engineer from India. I enjoy building everything from small busin
 [![Twitter](https://img.shields.io/badge/Twitter-Rahul%20Kumar-informational?style=for-the-badge&logo=twitter&logoColor=eeeeee)](https://twitter.com/godnondsilva)
 [![Visit](https://img.shields.io/badge/Visit-rahulKumar.vercel.app-informational?style=for-the-badge&logo=slashdot&logoColor=eeeeee)](https://godnondsilva.vercel.app)
 
-| [![GStats](https://github-readme-stats.vercel.app/api?username=godnondsilva&count_private=true&show_icons=true&theme=github_dark&bg_color=222222)](https://github.com/godnondsilva) | [![GStreak](https://github-readme-streak-stats.herokuapp.com/?user=godnondsilva&theme=github-dark-blue&background=222222)](https://github.com/godnondsilva) | 
+| [![GStats](https://github-readme-stats.vercel.app/api?username=krrahul23&count_private=true&show_icons=true&theme=github_dark&bg_color=222222)](https://github.com/krrahul23) | [![GStreak](https://github-readme-streak-stats.herokuapp.com/?user=godnondsilva&theme=github-dark-blue&background=222222)](https://github.com/krrahul23) | 
 |-|-|
 
-##### I am currently listening to:
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&width=3px&height=3px&border_color=ffffff)](https://open.spotify.com/user/31h5gms4pi7awt543ziazy7t3mya)
 
