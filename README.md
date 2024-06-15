@@ -1,4 +1,4 @@
-I'm a software engineer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently working as Senior Software Engineer at LTIMINDTREE. I did  Bachelor of Technology (B-TECH) degree in Computer Science & Engineering in India. If you would like to get in touch with me, you can do so using the following links:
+I'm a software engineer from India. I enjoy building everything from small business apps to interactive web apps. I'm currently working as a Senior Software Engineer at LTIMINDTREE. I did  Bachelor of Technology (B-TECH) in Computer Science & Engineering in India. If you would like to get in touch with me, you can do so using the following links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Kumar-informational?style=for-the-badge&logo=linkedin&logoColor=eeeeee)](https://www.linkedin.com/in/godnon-dsilva)
 [![Twitter](https://img.shields.io/badge/Twitter-Rahul%20Kumar-informational?style=for-the-badge&logo=twitter&logoColor=eeeeee)](https://twitter.com/godnondsilva)
